@@ -1,5 +1,4 @@
 
-# Unity 自動產生的快取與暫存檔
 **/[Ll]ibrary/
 **/[Tt]emp/
 **/[Oo]bj/
@@ -10,7 +9,6 @@
 **/[Mm]emoryCaptures/
 **/[Rr]ecordings/
 
-# IDE 與作業系統產生的檔案
 .vs/
 .vscode/
 .idea/
